@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/sergiordg00/sergiordg00/blob/master/images/banner.gif?raw=true)
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://todo.com) 
 [![email](https://img.shields.io/static/v1?label=&message=email&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge)](mailto:sergio@sergiordg.com)
