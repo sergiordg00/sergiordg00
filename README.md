@@ -1,9 +1,9 @@
 ![Banner](https://github.com/sergiordg00/sergiordg00/blob/master/images/banner.gif?raw=true)
 
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://todo.com) 
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sergiordg00/) 
 [![email](https://img.shields.io/static/v1?label=&message=email&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge)](mailto:sergio@sergiordg.com)
 [![portfolio](https://img.shields.io/static/v1?label=&message=portfolio&color=000&logoColor=white&style=for-the-badge)](https://sergiordg.com)
-[![cv](https://img.shields.io/static/v1?label=&message=download%20my%20cv&color=288f16&logo=read.cv&logoColor=white&style=for-the-badge)](mailto:sergiordg00@gmail.com)
+[![cv](https://img.shields.io/static/v1?label=&message=download%20my%20cv&color=288f16&logo=read.cv&logoColor=white&style=for-the-badge)](https://sergiordg.com/cv_en.pdf)
 
 
 ## 👨‍💻 About me
